@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+*.env
+
+# VSCode settings
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Videos / large data (you can commit only sample links)
+Data_Samples/*.mp4
+
+# Database files (if SQLite, not needed for PostgreSQL)
+*.db
