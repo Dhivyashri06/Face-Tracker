@@ -147,5 +147,8 @@ python main.py
 * NumPy / SciPy
 * YOLO (for detection)
 
+##  Working demo:
+https://www.loom.com/share/63196da2d878437c9a4455bb17562dc9
+
 ---
 This project is a part of a hackathon run by https://katomaran.com 
